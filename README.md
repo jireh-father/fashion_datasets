@@ -7,6 +7,7 @@
 | Deep Fashion / Fashion Landmark Detection  | landmark detection | 123,016 number of clothes images | Human Joint Annotations| O | O | X |[link](https://drive.google.com/drive/folders/0B7EVK8r0v71pLXQ4bmxZaEFKTm8)|non-cormercial|
 | Deep Fashion / Fashion Synthesis  | image synthesis | 78,979 images | Captions| X | X | O |[link](https://drive.google.com/drive/folders/0B7EVK8r0v71pTHhMenkxbE9fTVk)|non-cormercial|
 | Fashion-MNIST  | image classification | train 60,000, test 10,000 | 10 clothing categories | X | X | X |[link](https://github.com/zalandoresearch/fashion-mnist#get-the-data)|The MIT License (MIT)|
+| Main Product Detection Dataset  | image classification | image urls | 1. product categories<br/><br/>2. product description<br/><br/>3. product title<br/><br/>4. product color<br/><br/>5. 300 bounding box proposals | O | X | X |[link](https://github.com/arubior/main-product-dataset)|non-commercial|
 
 
 license, link, classes, bounding box, landmark, segmentation(scean parsing) format?
