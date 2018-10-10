@@ -6,5 +6,7 @@
 | Deep Fashion / Consumer-To-Shop Retreival  | image retreival | 1. 239,557 number of consumer/shop clothes images<br/><br/>2. 195,540 cross-domain pairs | 1. 33,881 number of clothing items<br/><br/>2. clothing attributes| O | O | X |[link](https://drive.google.com/drive/folders/0B7EVK8r0v71pRXllRUdQcC1zTHc)|non-cormercial|
 | Deep Fashion / Fashion Landmark Detection  | landmark detection | 123,016 number of clothes images | Human Joint Annotations| O | O | X |[link](https://drive.google.com/drive/folders/0B7EVK8r0v71pLXQ4bmxZaEFKTm8)|non-cormercial|
 | Deep Fashion / Fashion Synthesis  | image synthesis | 78,979 images | Captions| X | X | O |[link](https://drive.google.com/drive/folders/0B7EVK8r0v71pTHhMenkxbE9fTVk)|non-cormercial|
+| Fashion-MNIST  | image classification | train 60,000, test 10,000 | 10 clothing categories | X | X | X |[link](https://github.com/zalandoresearch/fashion-mnist#get-the-data)|The MIT License (MIT)|
+
 
 license, link, classes, bounding box, landmark, segmentation(scean parsing) format?
