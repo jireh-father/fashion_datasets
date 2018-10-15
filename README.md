@@ -10,4 +10,12 @@
 | Main Product Detection Dataset  | image classification | 458,700 train image urls, 3,000 test image urls | 1. product categories<br/><br/>2. product description<br/><br/>3. product title<br/><br/>4. product color<br/><br/>5. 300 bounding box proposals | O | X | X |[link](https://github.com/arubior/main-product-dataset)|non-commercial|
 
 
-license, link, classes, bounding box, landmark, segmentation(scean parsing) format?
+
+https://esslab.jp/~ess/en/data/
+
+http://huizhongchen.github.io/datasets.html#clothingattributedataset
+https://sites.google.com/site/fashionparsing/dataset
+https://www.kaggle.com/olgabelitskaya/style-color-images
+https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&c=%2Fm%2F01n4qj
+http://kahlan.eps.surrey.ac.uk/featurespace/fashion/
+https://fashion-gen.com/
